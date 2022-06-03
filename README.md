@@ -65,5 +65,8 @@ Should any be missing kindly let us know at [Eagle Union](https://t.me/YorktownE
 Heroko 
 
 
-<h4>Click the button below to deploy kigyo Group Managment Bot on Heroku!</h4>    
-<p><a href="https://heroku.com/deploy?template=https://github.com/muhammedalthaf174/kigyo"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+
+### Easiest Way To Deploy On Heroku 
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/shukurenai007/ShuKurenaiXRoBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
