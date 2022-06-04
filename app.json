@@ -1,5 +1,5 @@
 {
-      "name": "Tiana Bot",
+      "name": "Tezza Bot ",
       "logo": "https://te.legra.ph/file/5f575d5b4a1d019ae2864.png",
       "description": "A Telegram Powerfull Group Managment Bot written in Python using Pyrogram and Telethon",
       "keywords": [
@@ -52,7 +52,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1218405248"
+         "value": "5002985537"
       },
       "BOT_ID": {
          "description": "Your bot ID.. Use any other bot to get it.",
@@ -69,11 +69,11 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "PrincexBots"
+         "value": "Althafser"
       },
       "BOT_USERNAME": {
          "description": "Your bot username without the @",
-         "value": "Tiana_Prince_Bot"
+         "value": "Tezza_robot"
       },
       "ASS_USERNAME": {
          "description": "Your Musicbot Assistant username without the @",
@@ -81,32 +81,17 @@
       },
       "BOT_NAME": {
          "description": "Your Bot Name",
-         "value": "Tiana"
+         "value": "Tezza"
       },
       "UPDATE_CHANNEL": {
          "description": "Your Telegram Bot Update Channel username Without @ like: TianaxUpdates.",
          "required": true,
-         "value": "TianaxUpdates"
+         "value": "Tezzasupportchannel"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username Without @ like: TianaxSupport.",
          "required": true,
-         "value": "TianaxSupport"
-      },
-      "START_IMG": {
-         "description": "Enter Your Bot Image Telegraph Link",
-         "required": true,
-         "value": ""
-      },
-      "BOT_TUT": {
-         "description": "Enter Your Bot Setup Video Tutorial Telegraph Link Leave As it is If You Dont Have",
-         "required": false,
-         "value": ""
-      },
-      "MUSICBOT_TUT": {
-         "description": "Enter Your Music Bot Setup Video Tutorial Telegraph Link Leave As it Is If You Dont Have",
-         "required": false,
-         "value": ""
+         "value": "Tezzasupportgroup"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
