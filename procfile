@@ -1,2 +1,2 @@
-worker: python3 -m Tg_Bot
+worker: python3 -m Tg_bot
 ps:scale worker=1
