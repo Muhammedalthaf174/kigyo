@@ -75,10 +75,6 @@
          "description": "Your bot username without the @",
          "value": "Tezza_robot"
       },
-      "ASS_USERNAME": {
-         "description": "Your Musicbot Assistant username without the @",
-         "value": "TianaxAssistant"
-      },
       "BOT_NAME": {
          "description": "Your Bot Name",
          "value": "Tezza"
